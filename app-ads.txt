@@ -12460,3 +12460,174 @@ gitberry.com, 816100181, RESELLER
 lijit.com, 524160, RESELLER, fafdf38b16bf6b2b
 pubeasy.io, 110779, RESELLER
 tubia.com, 40122, RESELLER
+Date: Jul 8, 2026
+mahimeta.com, 26, DIRECT
+pubmatic.com, 161758, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161759, RESELLER, 5d62403b186f2ace
+yahoo.com, 59636, DIRECT, e1a5b5b6e3255540 
+indexexchange.com , 175407, RESELLER, 50b1c356f2c5c8fc  
+pubmatic.com, 156107, RESELLER, 5d62403b186f2ace  
+rubiconproject.com,22554, RESELLER, 0bfd66d529a55807google.com, 
+pub-5413329544040947, DIRECT, f08c47fec0942fa0
+uswa-ads.co.uk, UT261303, DIRECT #schain2
+google.com, pub-2509511211458165, DIRECT, f08c47fec0942fa0
+google.com, pub-9407425605602250, DIRECT, f08c47fec0942fa0
+google.com, pub-7747449439723877, DIRECT, f08c47fec0942fa0
+google.com, pub-1781853254296294, DIRECT, f08c47fec0942fa0
+google.com, pub-4305474543250232, DIRECT, f08c47fec0942fa0
+google.com, pub-4964914015319876, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 24482, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 24484, DIRECT, 0bfd66d529a55807
+google.com, pub-8699255262206653, RESELLER, f08c47fec0942fa0
+google.com, pub-3132893725603935, RESELLER, f08c47fec0942fa0
+google.com, pub-3191289882045155, RESELLER, f08c47fec0942fa0
+adform.com, 3033, RESELLER, 9f5210a2f0999e32
+google.com, pub-6151720204273327, RESELLER, f08c47fec0942fa0 
+smartadserver.com, 4770-OB, RESELLER, 060d053dcf45cbf3
+google.com, pub-6003853374768578, RESELLER, f08c47fec0942fa0
+google.com, pub-6221906838949502, RESELLER, f08c47fec0942fa0
+google.com, pub-4258819068328980, RESELLER, f08c47fec0942fa0
+google.com, pub-5814872297601307, RESELLER, f08c47fec0942fa0
+google.com, pub-2522338444130342, RESELLER, f08c47fec0942fa0
+google.com, pub-1634269134136809, RESELLER, f08c47fec0942fa0
+google.com, pub-1274805340277052, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 11734, RESELLER, 0bfd66d529a55807
+invideolab.com, b-bcf0a, DIRECT
+google.com, pub-7837593441992006, RESELLER, f08c47fec0942fa0
+bidmatic.io, b-bcf0a, DIRECT
+mgid.com, 890067, DIRECT, d4c29acad76ce94f
+google.com, pub-8241049497608997, RESELLER, f08c47fec0942fa0
+smartadserver.com, 2860-OB, RESELLER
+yieldbird.com, 18395, DIRECT
+google.com, pub-8610050614645263, RESELLER, f08c47fec0942fa0
+onetag.com, 46218987a9da2b5-OB, DIRECT
+google.com, pub-7620071422727774, RESELLER, f08c47fec0942fa0
+eskimi.com, 2020001129, DIRECT
+google.com, pub-1290995901905588, RESELLER, f08c47fec0942fa0
+openx.com, 540066557, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 157590, RESELLER, 5d62403b186f2ace
+richaudience.com, YpIVHb4erR, RESELLER
+google.com, pub-3328898302928686, RESELLER, f08c47fec0942fa0
+lijit.com, 249425, RESELLER
+smartadserver.com, 2640, RESELLER
+adyoulike.com, f1dfbb7f133fbdb25c96e7d85a5e628b, RESELLER
+contextweb.com, 563371, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 27610, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 27612, RESELLER, 0bfd66d529a55807
+insticator.com, 6ed3a427-c6ec-49ed-82fe-d1fadce79a7b, DIRECT, b3511ffcafb23a32
+sharethrough.com, Q9IzHdvp, DIRECT, d53b998a7bd4ecd2
+pubmatic.com, 95054, DIRECT, 5d62403b186f2ace
+risecodes.com, 6124caed9c7adb0001c028d8, DIRECT
+openx.com, 558230700, RESELLER, 6a698e2ec38604c6
+pmc.com, 1242710, DIRECT, 8dd52f825890bb44
+rubiconproject.com, 10278, RESELLER, 0bfd66d529a55807
+lijit.com, 257618, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 3695, RESELLER, f5ab79cb980f11d1
+adipolo.com, 23096300634, DIRECT
+adipolosolutions.com, 23096300634, DIRECT
+arabella.ag, abl-6183, DIRECT
+adtech-digital.com, adt6183, DIRECT
+rtbdemand.com, 22911194209, DIRECT
+rubiconproject.com, 26890, RESELLER, 0bfd66d529a55807
+openx.com, 561447216, RESELLER, 6a698e2ec38604c6
+152media.info, 152M21, RESELLER
+openx.com, 539848768, RESELLER, 6a698e2ec38604c6 
+pmbmonetize.com, 23096300634, DIRECT
+opamarketplace.com, 23096300634, DIRECT
+smartadline.com, 23096300634, DIRECT
+copper6.com, 23096300634, DIRECT
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
+google.com, pub-9966039342650298, RESELLER, f08c47fec0942fa0
+adipolo.com, 22703897216, RESELLER
+adipolosolutions.com, 22652786701, RESELLER
+rubiconproject.com, 26578, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 26580, RESELLER, 0bfd66d529a55807
+inmobi.com, ffc749ae4c514420a2c6cb45d46f8dd3, DIRECT, 83e75a7ae333ca9d
+adingo.jp, 30791, RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+onetag.com, 8559b3a9ae48ece, DIRECT
+onetag.com, 8559b3a9ae48ece-OB, DIRECT                    
+uis.mobfox.com, 2456,  RESELLER , 5529a3d1f59865be
+Cue7ven.com,783517,RESELLER
+richaudience.com, XoB4ac2obW, RESELLER
+google.com, pub-9089347799132820, DIRECT, f08c47fec0942fa0
+adipolo.com, 22862575716, DIRECT
+adipolosolutions.com, 22862575716, DIRECT
+pmbmonetize.com, 22862575716, DIRECT
+opamarketplace.com, 22862575716, DIRECT
+smartadline.com, 23102879383, DIRECT
+copper6.com, 23286571436, DIRECT
+omgstudios.com, 23091012547, DIRECT
+google.com, pub-3715562101512710, RESELLER, f08c47fec0942fa0
+justbaat.com, 202501084209, DIRECT
+google.com, pub-9857612698505806, RESELLER, f08c47fec0942fa0
+appnexus.com,16912,RESELLER, f5ab79cb980f11d1
+appnexus.com,15686,RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 25512, RESELLER, 0bfd66d529a55807
+aps.amazon.com, d4004b5f-4fb6-4be2-82ae-0e36b8f52c12, DIRECT #dr
+adagio.io, 1224, RESELLER
+amxrtb.com, 105199423, DIRECT
+amxrtb.com, 105199904, DIRECT #pmb
+nobid.io, 22853635813, DIRECT #APL
+gannett.com, 22675194701, DIRECT
+richaudience.com, 3b6nSszVxj, DIRECT
+inmobi.com, dfe9a1f0c51b4d46a61d676e9f3a9d69, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 8553511ff9e24ce2b1f5d98addcc3340, DIRECT, 83e75a7ae333ca9d
+flashb.id, 48d6f078-164e-5504-bfe6-e532d167aefa, DIRECT
+viously.com, 498d6e1c-07d9-5be6-a682-d32ec49d10ee, DIRECT
+smilewanted.com, 5616, DIRECT
+kueez.com, 37593fdf8691b30f3d5f396800196fc7, reseller
+nobid.io,170256,DIRECT
+adyoulike.com, 0ea8ad779bbc631cae3be37fb39d790d, DIRECT
+Media.net, 8CU42SA73, DIRECT // Web
+Media.net, 8CU4FR18I, DIRECT
+seedtag.com,686e8a83023edd0007c5d8e6, DIRECT
+insticator.com,c4db4299-8acc-40c2-91cc-8907288b637e,DIRECT,b3511ffcafb23a32
+nextmillennium.io, 17104, DIRECT, 65bd090fa4a1e3d6
+admagnetix.io, 202088, DIRECT
+adyoulike.com, ae261014a4a3351ddf56658ca673135e, DIRECT
+selectmedia.asia,22703897216,RESELLER,e365c871a27c655d
+bidfuse.com, bf020920251343, DIRECT
+smilewanted.com, 5625, RESELLER #cp6
+smilewanted.com, 5923, RESELLER  #one
+appnexus.com, 17234, RESELLER, f5ab79cb980f11d1
+Media.net, 8CU4FR18I, DIRECT // APP
+pubmatic.com,157288,RESELLER,5d62403b186f2ace
+media.net,8cuh5vf7j,RESELLER
+pubmatic.com, 156610, RESELLER, 5d62403b186f2ace #Sapir
+omgstudios, 160620251, DIRECT
+themediagrid.com, 4WPRHV, DIRECT, 35d5010d7789b49d #1
+pubmatic.com, 163283, RESELLER, 5d62403b186f2ace #1
+pubmatic.com, 163282, RESELLER, 5d62403b186f2ace #1
+pubmatic.com, 163009, DIRECT, 5d62403b186f2ace #1
+sharethrough.com, sWxCFjI8, RESELLER, d53b998a7bd4ecd2 #1
+supply.colossusssp.com, 423, DIRECT #2
+yieldmo.com, 3078438591206989879, RESELLER, #ortb #2
+yieldmo.com, 3081538394287710485, RESELLER, #ortbctv #2
+improvedigital.com, 2702, RESELLER #2
+sharethrough.com, #sWxCFjI8, DIRECT, d53b998a7bd4ecd2
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0
+anyclip.com, 23050223808, DIRECT
+omgstudios.com, 23076711612, DIRECT
+amxrtb.com, 105199874, DIRECT #one
+amxrtb.com, 105199924, DIRECT #gabot
+onetag.com, 61d88450bdb25bc-OB, DIRECT
+smilewanted.com, 5766, RESELLER #GABOT
+didna.io, 494n1p17244a, DIRECT
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
+smartadserver.com, 5532, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 5532, RESELLER, 060d053dcf45cbf3
+lijit.com, 555137, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 555140, DIRECT, fafdf38b16bf6b2b #SOVRN
+snack-media.com, SNM_4888, DIRECT
+copper6.com, 23033711203, RESELLER
+pmbmonetize.com, 22597229605, RESELLER
+opamarketplace.com, 22597229605, RESELLER
+adipolosolutions.com, 22597229605, RESELLER
+adipolo.com, 22597229605, RESELLER
+smartadline.com, 22703897216, RESELLER
+pmbmonetize.com, 22703897216, RESELLER
+opamarketplace.com, 22703897216, RESELLER
+voletix.com, 25525, DIRECT
+optimovid.com, 525677, DIRECT
